@@ -28,6 +28,7 @@ char* remove_match(char str1[], const char str2[])
     return str1;
 }
 
+//ignore this please. just testing other methods
 // int my_len(char str[])
 // {
 //     int len = 0;
